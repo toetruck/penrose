@@ -4,5 +4,7 @@
  */
 
  /**************YOUR CODE - START********************/
-
+type Set
+type Relationship
+type Observer
 /**************YOUR CODE - END**********************/
